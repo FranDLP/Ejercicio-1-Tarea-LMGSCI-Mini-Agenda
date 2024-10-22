@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Doctype agenda>    
+    <agenda>
+        <contacto1>
+            <nombre>Sara</nombre>
+            <apellidos>Muñoz Álvarez</apellidos>
+            <direccion>Beato de Liébana 15-C </direccion>
+            <telefono> 678030023 </telefono
+        </contacto1>
+        <contacto2>
+            <nombre>Pedro</nombre>
+            <apellidos>Bermudez Alonso</apellidos>
+            <direccion>Cisneros 72 </direccion>
+            <telefono> 653011028 </telefono>
+        </contacto2>     
+    </agenda>
